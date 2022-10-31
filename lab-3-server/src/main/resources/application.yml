@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 spring.cloud.config.server.git.uri: https://github.com/jhorgesub/Globant-Labs-SpringCloud
+=======
+spring.cloud.config.server.git.uri: https://github.com/jhorgesub/Lab-3
+>>>>>>> 8026b69bfdc8c19084957fe04027f55b3943cb30
 server.port: 8001
